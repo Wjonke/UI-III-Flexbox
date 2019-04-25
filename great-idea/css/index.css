@@ -110,10 +110,12 @@ nav div{
 	justify-content: space-between;
 	width:900px;
 	align-items: center;
+	
 }
 
 .navbar{
 	justify-content: space-between;
+	text-decoration:none;
 }
 
 a{
@@ -125,7 +127,12 @@ a{
 	display: flex;	
 }
 
-
+.getStarted{
+	background: white;
+	border: 1px solid black;
+	height: 30px;
+	width: 160px;
+}
 
 
 
